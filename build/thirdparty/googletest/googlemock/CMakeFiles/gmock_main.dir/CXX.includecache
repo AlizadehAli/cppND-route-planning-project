@@ -514,13 +514,13 @@ cxxabi.h
 acxx_demangle.h
 -
 
-/home/aalizade/Documents/learning/c++/udacityND/CppND-Route-Planning-Project/thirdparty/googletest/googlemock/src/gmock_main.cc
+/home/aalizade/Documents/learning/c++/udacityND/cppND-route-planning-project/thirdparty/googletest/googlemock/src/gmock_main.cc
 iostream
 -
 gmock/gmock.h
-/home/aalizade/Documents/learning/c++/udacityND/CppND-Route-Planning-Project/thirdparty/googletest/googlemock/src/gmock/gmock.h
+/home/aalizade/Documents/learning/c++/udacityND/cppND-route-planning-project/thirdparty/googletest/googlemock/src/gmock/gmock.h
 gtest/gtest.h
-/home/aalizade/Documents/learning/c++/udacityND/CppND-Route-Planning-Project/thirdparty/googletest/googlemock/src/gtest/gtest.h
+/home/aalizade/Documents/learning/c++/udacityND/cppND-route-planning-project/thirdparty/googletest/googlemock/src/gtest/gtest.h
 tchar.h
 -
 

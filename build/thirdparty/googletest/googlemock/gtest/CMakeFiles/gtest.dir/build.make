@@ -62,10 +62,10 @@ RM = /usr/local/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/aalizade/Documents/learning/c++/udacityND/CppND-Route-Planning-Project
+CMAKE_SOURCE_DIR = /home/aalizade/Documents/learning/c++/udacityND/cppND-route-planning-project
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/aalizade/Documents/learning/c++/udacityND/CppND-Route-Planning-Project/build
+CMAKE_BINARY_DIR = /home/aalizade/Documents/learning/c++/udacityND/cppND-route-planning-project/build
 
 # Include any dependencies generated for this target.
 include thirdparty/googletest/googlemock/gtest/CMakeFiles/gtest.dir/depend.make
@@ -78,16 +78,16 @@ include thirdparty/googletest/googlemock/gtest/CMakeFiles/gtest.dir/flags.make
 
 thirdparty/googletest/googlemock/gtest/CMakeFiles/gtest.dir/src/gtest-all.cc.o: thirdparty/googletest/googlemock/gtest/CMakeFiles/gtest.dir/flags.make
 thirdparty/googletest/googlemock/gtest/CMakeFiles/gtest.dir/src/gtest-all.cc.o: ../thirdparty/googletest/googletest/src/gtest-all.cc
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/aalizade/Documents/learning/c++/udacityND/CppND-Route-Planning-Project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object thirdparty/googletest/googlemock/gtest/CMakeFiles/gtest.dir/src/gtest-all.cc.o"
-	cd /home/aalizade/Documents/learning/c++/udacityND/CppND-Route-Planning-Project/build/thirdparty/googletest/googlemock/gtest && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/gtest.dir/src/gtest-all.cc.o -c /home/aalizade/Documents/learning/c++/udacityND/CppND-Route-Planning-Project/thirdparty/googletest/googletest/src/gtest-all.cc
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/aalizade/Documents/learning/c++/udacityND/cppND-route-planning-project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object thirdparty/googletest/googlemock/gtest/CMakeFiles/gtest.dir/src/gtest-all.cc.o"
+	cd /home/aalizade/Documents/learning/c++/udacityND/cppND-route-planning-project/build/thirdparty/googletest/googlemock/gtest && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/gtest.dir/src/gtest-all.cc.o -c /home/aalizade/Documents/learning/c++/udacityND/cppND-route-planning-project/thirdparty/googletest/googletest/src/gtest-all.cc
 
 thirdparty/googletest/googlemock/gtest/CMakeFiles/gtest.dir/src/gtest-all.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/gtest.dir/src/gtest-all.cc.i"
-	cd /home/aalizade/Documents/learning/c++/udacityND/CppND-Route-Planning-Project/build/thirdparty/googletest/googlemock/gtest && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/aalizade/Documents/learning/c++/udacityND/CppND-Route-Planning-Project/thirdparty/googletest/googletest/src/gtest-all.cc > CMakeFiles/gtest.dir/src/gtest-all.cc.i
+	cd /home/aalizade/Documents/learning/c++/udacityND/cppND-route-planning-project/build/thirdparty/googletest/googlemock/gtest && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/aalizade/Documents/learning/c++/udacityND/cppND-route-planning-project/thirdparty/googletest/googletest/src/gtest-all.cc > CMakeFiles/gtest.dir/src/gtest-all.cc.i
 
 thirdparty/googletest/googlemock/gtest/CMakeFiles/gtest.dir/src/gtest-all.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/gtest.dir/src/gtest-all.cc.s"
-	cd /home/aalizade/Documents/learning/c++/udacityND/CppND-Route-Planning-Project/build/thirdparty/googletest/googlemock/gtest && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/aalizade/Documents/learning/c++/udacityND/CppND-Route-Planning-Project/thirdparty/googletest/googletest/src/gtest-all.cc -o CMakeFiles/gtest.dir/src/gtest-all.cc.s
+	cd /home/aalizade/Documents/learning/c++/udacityND/cppND-route-planning-project/build/thirdparty/googletest/googlemock/gtest && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/aalizade/Documents/learning/c++/udacityND/cppND-route-planning-project/thirdparty/googletest/googletest/src/gtest-all.cc -o CMakeFiles/gtest.dir/src/gtest-all.cc.s
 
 # Object files for target gtest
 gtest_OBJECTS = \
@@ -99,9 +99,9 @@ gtest_EXTERNAL_OBJECTS =
 lib/libgtest.a: thirdparty/googletest/googlemock/gtest/CMakeFiles/gtest.dir/src/gtest-all.cc.o
 lib/libgtest.a: thirdparty/googletest/googlemock/gtest/CMakeFiles/gtest.dir/build.make
 lib/libgtest.a: thirdparty/googletest/googlemock/gtest/CMakeFiles/gtest.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/aalizade/Documents/learning/c++/udacityND/CppND-Route-Planning-Project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX static library ../../../../lib/libgtest.a"
-	cd /home/aalizade/Documents/learning/c++/udacityND/CppND-Route-Planning-Project/build/thirdparty/googletest/googlemock/gtest && $(CMAKE_COMMAND) -P CMakeFiles/gtest.dir/cmake_clean_target.cmake
-	cd /home/aalizade/Documents/learning/c++/udacityND/CppND-Route-Planning-Project/build/thirdparty/googletest/googlemock/gtest && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/gtest.dir/link.txt --verbose=$(VERBOSE)
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/aalizade/Documents/learning/c++/udacityND/cppND-route-planning-project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX static library ../../../../lib/libgtest.a"
+	cd /home/aalizade/Documents/learning/c++/udacityND/cppND-route-planning-project/build/thirdparty/googletest/googlemock/gtest && $(CMAKE_COMMAND) -P CMakeFiles/gtest.dir/cmake_clean_target.cmake
+	cd /home/aalizade/Documents/learning/c++/udacityND/cppND-route-planning-project/build/thirdparty/googletest/googlemock/gtest && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/gtest.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
 thirdparty/googletest/googlemock/gtest/CMakeFiles/gtest.dir/build: lib/libgtest.a
@@ -109,10 +109,10 @@ thirdparty/googletest/googlemock/gtest/CMakeFiles/gtest.dir/build: lib/libgtest.
 .PHONY : thirdparty/googletest/googlemock/gtest/CMakeFiles/gtest.dir/build
 
 thirdparty/googletest/googlemock/gtest/CMakeFiles/gtest.dir/clean:
-	cd /home/aalizade/Documents/learning/c++/udacityND/CppND-Route-Planning-Project/build/thirdparty/googletest/googlemock/gtest && $(CMAKE_COMMAND) -P CMakeFiles/gtest.dir/cmake_clean.cmake
+	cd /home/aalizade/Documents/learning/c++/udacityND/cppND-route-planning-project/build/thirdparty/googletest/googlemock/gtest && $(CMAKE_COMMAND) -P CMakeFiles/gtest.dir/cmake_clean.cmake
 .PHONY : thirdparty/googletest/googlemock/gtest/CMakeFiles/gtest.dir/clean
 
 thirdparty/googletest/googlemock/gtest/CMakeFiles/gtest.dir/depend:
-	cd /home/aalizade/Documents/learning/c++/udacityND/CppND-Route-Planning-Project/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/aalizade/Documents/learning/c++/udacityND/CppND-Route-Planning-Project /home/aalizade/Documents/learning/c++/udacityND/CppND-Route-Planning-Project/thirdparty/googletest/googletest /home/aalizade/Documents/learning/c++/udacityND/CppND-Route-Planning-Project/build /home/aalizade/Documents/learning/c++/udacityND/CppND-Route-Planning-Project/build/thirdparty/googletest/googlemock/gtest /home/aalizade/Documents/learning/c++/udacityND/CppND-Route-Planning-Project/build/thirdparty/googletest/googlemock/gtest/CMakeFiles/gtest.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/aalizade/Documents/learning/c++/udacityND/cppND-route-planning-project/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/aalizade/Documents/learning/c++/udacityND/cppND-route-planning-project /home/aalizade/Documents/learning/c++/udacityND/cppND-route-planning-project/thirdparty/googletest/googletest /home/aalizade/Documents/learning/c++/udacityND/cppND-route-planning-project/build /home/aalizade/Documents/learning/c++/udacityND/cppND-route-planning-project/build/thirdparty/googletest/googlemock/gtest /home/aalizade/Documents/learning/c++/udacityND/cppND-route-planning-project/build/thirdparty/googletest/googlemock/gtest/CMakeFiles/gtest.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : thirdparty/googletest/googlemock/gtest/CMakeFiles/gtest.dir/depend
 

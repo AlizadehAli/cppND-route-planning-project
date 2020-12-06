@@ -6,11 +6,11 @@
 
 #IncludeRegexTransform: 
 
-/home/aalizade/Documents/learning/c++/udacityND/CppND-Route-Planning-Project/thirdparty/pugixml/src/pugiconfig.hpp
+/home/aalizade/Documents/learning/c++/udacityND/cppND-route-planning-project/thirdparty/pugixml/src/pugiconfig.hpp
 
-/home/aalizade/Documents/learning/c++/udacityND/CppND-Route-Planning-Project/thirdparty/pugixml/src/pugixml.cpp
+/home/aalizade/Documents/learning/c++/udacityND/cppND-route-planning-project/thirdparty/pugixml/src/pugixml.cpp
 pugixml.hpp
-/home/aalizade/Documents/learning/c++/udacityND/CppND-Route-Planning-Project/thirdparty/pugixml/src/pugixml.hpp
+/home/aalizade/Documents/learning/c++/udacityND/cppND-route-planning-project/thirdparty/pugixml/src/pugixml.hpp
 stdlib.h
 -
 stdio.h
@@ -38,9 +38,9 @@ new
 stdint.h
 -
 
-/home/aalizade/Documents/learning/c++/udacityND/CppND-Route-Planning-Project/thirdparty/pugixml/src/pugixml.hpp
+/home/aalizade/Documents/learning/c++/udacityND/cppND-route-planning-project/thirdparty/pugixml/src/pugixml.hpp
 pugiconfig.hpp
-/home/aalizade/Documents/learning/c++/udacityND/CppND-Route-Planning-Project/thirdparty/pugixml/src/pugiconfig.hpp
+/home/aalizade/Documents/learning/c++/udacityND/cppND-route-planning-project/thirdparty/pugixml/src/pugiconfig.hpp
 stddef.h
 -
 exception

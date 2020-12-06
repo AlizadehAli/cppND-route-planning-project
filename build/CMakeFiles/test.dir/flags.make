@@ -4,7 +4,7 @@
 # compile CXX with /usr/bin/c++
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/home/aalizade/Documents/learning/c++/udacityND/CppND-Route-Planning-Project/thirdparty/pugixml/src -isystem /home/aalizade/Documents/learning/c++/udacityND/CppND-Route-Planning-Project/thirdparty/googletest/googletest/include -isystem /home/aalizade/Documents/learning/c++/udacityND/CppND-Route-Planning-Project/thirdparty/googletest/googletest
+CXX_INCLUDES = -I/home/aalizade/Documents/learning/c++/udacityND/cppND-route-planning-project/thirdparty/pugixml/src -isystem /home/aalizade/Documents/learning/c++/udacityND/cppND-route-planning-project/thirdparty/googletest/googletest/include -isystem /home/aalizade/Documents/learning/c++/udacityND/cppND-route-planning-project/thirdparty/googletest/googletest
 
 CXX_FLAGS = -std=gnu++1z
 
