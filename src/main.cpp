@@ -62,8 +62,8 @@ int main(int argc, const char **argv)
     std::cin >> start_y;
     std::cout << "Enter x end: " << std::endl;
     std::cin >> end_x;
-    std::cout << "Enter x end: " << std::endl;
-    std::cin >> end_x;
+    std::cout << "Enter y end: " << std::endl;
+    std::cin >> end_y;
 
 
 
